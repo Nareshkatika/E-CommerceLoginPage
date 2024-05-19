@@ -1,0 +1,14 @@
+/* Write your CSS code here */
+/* Write your CSS code here */
+.imageEl {
+  height: 120px;
+  width: 100px;
+}
+
+.ArrangeEl {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
